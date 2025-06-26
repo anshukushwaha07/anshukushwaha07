@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anshu Kushwaha
 
-🚀 Front-End Developer | MERN Stack Enthusiast | UI/UX Explorer | GCP Learner | MCA Student  
+🚀 Front-End Developer | MERN Stack Enthusiast | UI/UX Explorer | GCP Learner 
 🌟 Passionate about building scalable, user-friendly web apps and solving real-world problems through code.
 
 ---
