@@ -36,7 +36,7 @@
 - 📧 Email: [anshukushwaha.ak07@gmail.com](mailto:anshukushwaha.ak07@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/anshu-kushwaha-0a0655265](https://www.linkedin.com/in/anshu-kushwaha-0a0655265/)  
 - 💻 GitHub: [github.com/anshukushwaha07](https://github.com/anshukushwaha07)  
-- 🌐 Portfolio:[Dev Networker](https://github.com/anshukushwaha07/AnshuPortfolio)
+- 🌐 Portfolio:[Portfolio Link](https://github.com/anshukushwaha07/AnshuPortfolio)
 
 ---
 
