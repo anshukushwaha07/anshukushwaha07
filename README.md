@@ -33,7 +33,7 @@
 
 ### 📫 Connect with Me
 
-- 📧 Email: [anshukushwaha.ak07@gmail.com](mailto:anshukushwaha.ak07@gmail.com)  
+- 📧 Email: [anshukushwaha.ak07@gmail.com](mailto:anshu.kush007@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/anshu-kushwaha-0a0655265](https://www.linkedin.com/in/anshu-kushwaha-0a0655265/)  
 - 💻 GitHub: [github.com/anshukushwaha07](https://github.com/anshukushwaha07)  
 - 🌐 Portfolio:[Portfolio Link](https://github.com/anshukushwaha07/AnshuPortfolio)
